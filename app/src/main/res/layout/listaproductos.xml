@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    android:focusable="true"
+    android:focusableInTouchMode="true"  >
+    <requestFocus />
+        <EditText
+            android:id="@+id/filtro"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Busqueda" >
+
+    	</EditText>
+
+    <ListView
+        android:id="@android:id/list"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+    </ListView>
+
+    <!-- <TextView
+        android:id="@+id/textoNoOfertas"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10sp"
+        android:layout_marginStart="10sp"
+        android:layout_marginTop="10dp"
+        android:text="@string/noOfertas"
+        android:textColor="#00008B"
+        android:textSize="16sp"
+        android:textStyle="bold" /> -->
+
+</LinearLayout>
