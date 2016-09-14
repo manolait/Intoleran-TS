@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\Manuel\\Desktop\\Intoleran-ts7.0RaspBerryLogin1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Manuel\\Desktop\\Intoleran-ts7.0RaspBerryLogin1\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Manuel\\Desktop\\Intoleran-ts7.0RaspBerryLogin1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_productos.xml",
+        "source": "C:\\Users\\Manuel\\Desktop\\Intoleran-ts7.0RaspBerryLogin1\\app\\src\\main\\res\\layout\\list_item_productos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Manuel\\Desktop\\Intoleran-ts7.0RaspBerryLogin1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registrar.xml",
+        "source": "C:\\Users\\Manuel\\Desktop\\Intoleran-ts7.0RaspBerryLogin1\\app\\src\\main\\res\\layout\\activity_registrar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Manuel\\Desktop\\Intoleran-ts7.0RaspBerryLogin1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\userprofile.xml",
+        "source": "C:\\Users\\Manuel\\Desktop\\Intoleran-ts7.0RaspBerryLogin1\\app\\src\\main\\res\\layout\\userprofile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Manuel\\Desktop\\Intoleran-ts7.0RaspBerryLogin1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\insertar.xml",
+        "source": "C:\\Users\\Manuel\\Desktop\\Intoleran-ts7.0RaspBerryLogin1\\app\\src\\main\\res\\layout\\insertar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Manuel\\Desktop\\Intoleran-ts7.0RaspBerryLogin1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lactosa.xml",
+        "source": "C:\\Users\\Manuel\\Desktop\\Intoleran-ts7.0RaspBerryLogin1\\app\\src\\main\\res\\layout\\lactosa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Manuel\\Desktop\\Intoleran-ts7.0RaspBerryLogin1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\Manuel\\Desktop\\Intoleran-ts7.0RaspBerryLogin1\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Manuel\\Desktop\\Intoleran-ts7.0RaspBerryLogin1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Manuel\\Desktop\\Intoleran-ts7.0RaspBerryLogin1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Manuel\\Desktop\\Intoleran-ts7.0RaspBerryLogin1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\resultados.xml",
+        "source": "C:\\Users\\Manuel\\Desktop\\Intoleran-ts7.0RaspBerryLogin1\\app\\src\\main\\res\\layout\\resultados.xml"
+    },
+    {
+        "merged": "C:\\Users\\Manuel\\Desktop\\Intoleran-ts7.0RaspBerryLogin1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\resultados2.xml",
+        "source": "C:\\Users\\Manuel\\Desktop\\Intoleran-ts7.0RaspBerryLogin1\\app\\src\\main\\res\\layout\\resultados2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Manuel\\Desktop\\Intoleran-ts7.0RaspBerryLogin1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listaproductos.xml",
+        "source": "C:\\Users\\Manuel\\Desktop\\Intoleran-ts7.0RaspBerryLogin1\\app\\src\\main\\res\\layout\\listaproductos.xml"
+    }
+]
